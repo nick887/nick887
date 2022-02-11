@@ -4,7 +4,7 @@
 
 ## Interested in DATABASE
 
-## Update [blog](http://www.nickxiao.icu/) from time to time
+## Update [blog](http://www.nickxiao.icu/) occasionally
 
 ## Java & Go & Rust
 
