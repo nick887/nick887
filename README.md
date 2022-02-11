@@ -8,9 +8,9 @@
 
 ## Java & Go & Rust
 
-## Editor: ides created by JetBrains
+## Editor: ides created by JetBrains & NVIM
 
-## Operating System: MACOS
+## Operating System: MACOS & Linux
 
 ## Reach me : yxiao196@gmail.com
 
